@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-12)
+## Unreleased (2026-08-13)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ce3a8e8`](https://github.com/stdlib-js/stdlib/commit/ce3a8e87f0e3bbce17bdd71a1713f1a1347839db) - **docs:** update Markdown equation elements [(#14214)](https://github.com/stdlib-js/stdlib/pull/14214) _(by stdlib-bot)_
 -   [`bcff88e`](https://github.com/stdlib-js/stdlib/commit/bcff88e9f8cb2f0b8124d94ab810d7e2eee7a948) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f09e1e4`](https://github.com/stdlib-js/stdlib/commit/f09e1e4e697d6252d998638bae68871281cc74c7) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`cb9723a`](https://github.com/stdlib-js/stdlib/commit/cb9723af638d9244ea0b50bcb07c550f13bdedce) - **docs:** update examples [(#14169)](https://github.com/stdlib-js/stdlib/pull/14169) _(by Philipp Burckhardt)_
